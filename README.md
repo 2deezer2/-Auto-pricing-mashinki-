@@ -4,7 +4,7 @@
 
 Таблица с данными: [Data.csv](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/dbb0659fbf1dc42bbddd46637cc96096c534f673/folder1/Data.csv)
 # Визуализация 
-Тетрадка с визуализациями: [Visualizations.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/db6abb7670c1db63c5371cfe8bcc478c994e10d2/Visualizations.ipynb)
+Тетрадка с визуализациями: [Visualizations.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Visualizations.ipynb)
 # Гипотезы 
 Гипотезы, которые мы будем проверять:
 
