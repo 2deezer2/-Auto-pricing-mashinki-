@@ -13,7 +13,8 @@
 Проверка первых трех гипотез: [Hypothesis_testing.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Hypothesis_testing.ipynb)
 # Гипотезы и МО: 
 Проверка всех гипотез и машинное обучение:
-[Hypothesis+ML.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Гипотезы_и_МО.ipynb)
+[Hypothesis+ML.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Hypothesis+ML.ipynb)
+
 Гипотезы, которые мы проверили:
 
 - Чем новее модель автомобиля, тем выше цена на него.
