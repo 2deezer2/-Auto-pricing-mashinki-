@@ -5,6 +5,8 @@
 Тетрадка с парсингом: [Parser.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Parser.ipynb)
 
 Таблица с данными: [Data.csv](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Data.csv)
+
+Таблица со старыми данными: [Data.csv](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/folder1/Data.csv)
 # Визуализация 
 Тетрадка с визуализациями: [Visualizations.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Visualizations.ipynb)
 # Гипотезы 
