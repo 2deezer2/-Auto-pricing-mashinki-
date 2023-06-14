@@ -1,6 +1,6 @@
 # -Auto-pricing-mashinki-
 # Сбор данных 
-Тетрадка с парсингом: [Parser.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/dbb0659fbf1dc42bbddd46637cc96096c534f673/Parser.ipynb)
+Тетрадка с парсингом: [Parser.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Parser.ipynb)
 
 Таблица с данными: [Data.csv](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/dbb0659fbf1dc42bbddd46637cc96096c534f673/folder1/Data.csv)
 # Визуализация 
