@@ -10,8 +10,9 @@
 # Визуализация 
 Тетрадка с визуализациями: [Visualizations.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Visualizations.ipynb)
 # Гипотезы 
-Проверка гипотез: [Hypothesis_testing.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Hypothesis_testing.ipynb)
-
+Проверка первых трех гипотез: [Hypothesis_testing.ipynb](https://github.com/2deezer2/-Auto-pricing-mashinki-/blob/main/Hypothesis_testing.ipynb)
+# Гипотезы и МО: 
+Проверка всех гипотез и машинное обучение:
 Гипотезы, которые мы проверили:
 
 - Чем новее модель автомобиля, тем выше цена на него.
